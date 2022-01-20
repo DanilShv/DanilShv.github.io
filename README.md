@@ -1,2 +1,2 @@
-# DanilShv.github.io
+# Danil Shvatskiy
 My first project
